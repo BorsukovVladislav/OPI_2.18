@@ -1,3 +1,3 @@
 # ЛР №2.18 по Основам Программной инженерии
 # Борсуков Владислав ПИЖ-б-о-21-1
-![Cat](https://prnt.sc/kc9t-O6d8PFO)
+![Cat](https://i.ibb.co/yqRYFH8/Cat.jpg)
